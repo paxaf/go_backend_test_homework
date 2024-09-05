@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	"fmt" // добавляем библиотеку для вывода данных на экран
 )
 
 func Add(a, b int) int {
